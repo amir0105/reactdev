@@ -8,8 +8,8 @@ Develop a single page mobile web page (SPA) which displays patient's temperature
 ## Tasks
 Develop a Single page application for the below set of user stories. 
 
-- Fetch and display patients list as given in mockup sorted by vaccination date.
-- Filter patients list based on symptoms
+- Fetch and display patients list.
+- Filter patients list based on symptoms.
 - Display a chart view of patient's daily temperature.
 
 Assumptions: 
@@ -34,12 +34,10 @@ Search Patients by Name
 When user is on Patients listing page, the user should be able to enter patients name and perform a local search.
 
 
-Sort / Filter Patients details
-------------------------------
+Filter Patients details
+-----------------------
         Provided that the user is on Patient listng page, the user should be able to 
-        - Filter users who had 'High Temperature'/'Sneezing'/'Cough'
-        - Sort the list based on symptomatic / asymptomatic [identified with symptoms with value nil]
-      
+        - Filter users who had 'High Temperature'/'Sneezing'/'Cough'      
 ```   
 
 
