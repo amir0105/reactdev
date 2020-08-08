@@ -17,9 +17,9 @@ Assumptions:
 
 
 -------------------------------------
-## Mock Ups
-
-
+## Data
+Get call to
+https://raw.githubusercontent.com/amir0105/reactdev/master/temp.json
 
 
 ## User Stories
@@ -37,8 +37,8 @@ When user is on Patients listing page, the user should be able to enter patients
 Sort / Filter Patients details
 ------------------------------
         Provided that the user is on Patient listng page, the user should be able to 
-        - Filter users who had 'High Temperature'/'Vomit'/'Cough'/'Shortness of Breath'/'Loss of Taste'
-        - Sort the list based on admission date
+        - Filter users who had 'High Temperature'/'Sneezing'/'Cough'
+        - Sort the list based on symptomatic / asymptomatic [identified with symptoms with value nil]
       
 ```   
 
